@@ -1,3 +1,7 @@
+---
+description: Replacing known instruction patterns with a jump to the protectors code.
+---
+
 # Stolen Bytes
 
 placeholder

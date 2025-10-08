@@ -1,3 +1,9 @@
+---
+description: >-
+  Replacing jumps with exception-raising instructions so that the self-debugging
+  process can resolve the jumps manually via a table.
+---
+
 # Nanomites
 
 placeholder

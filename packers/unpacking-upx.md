@@ -1,3 +1,7 @@
+---
+description: Dynamic & static unpacking of a UPX packed executable.
+---
+
 # Unpacking UPX
 
 If we know the binary we are working with is not packed with a modified version of UPX, we can simply install UPX on our machine and execute the following:
